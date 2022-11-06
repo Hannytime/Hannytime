@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Hannytime
-- 👀 I’m interested in language, writing, and documentation.
-- 🌱 I’m currently learning how to create and improve documentation.
-- 💞️ I’m looking to collaborate on various documentation projects.
-- 📫 How to reach me: @hannycake
+## Hi, I'm Ilona and I'm a technical writer based in Wrocław!
+
+I'm learning how to use git to create documentation and gather most important imformation. I work in an IT company that makes ERP software.
+
+Currently, I'm working on a project I created to keep track of subtitles that I translated into Polish as part of an international fan project (Taskmaster International Inc.). The subtitles are for a brilliant British show called Taskmaster, which I wholeheartedly recommend.
+
+Feel free to look around and reach out!
 
 <!---
 Hannytime/Hannytime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
