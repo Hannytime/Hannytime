@@ -1,15 +1,17 @@
 ﻿## TASKMASTER UK POLSKIE NAPISY
 
+![line](line.png)
+
 O projekcie | Taskmaster | Linki
 
 ### **Polskie napisy do programu tv Taskmaster UK**
 Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stworzone przez fankę w ramach projektu Taskmaster Worldwide Inc.
 
----
+![line](line.png)
 
 [Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | Sezon 8 (WIP) | [Odcinki specjalne](#odcinki-specjalne)
 
----
+![line](line.png)
 
 ### **Sezon 1**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1etWakORzQx6OMqMpvCR0blqV2Tylpy8B)
@@ -35,6 +37,7 @@ Nr | Tytuł | Link
 4 | Witamy w Malowaniu Rico. | [Link](https://drive.google.com/uc?export=download&id=1ytc14KW1-amUrIBH2284QL1tmoZEBGWx)
 5 | Moc jest w łukach. | [Link](https://drive.google.com/uc?export=download&id=1f2D-vshyOGDc6abwMCrKmYnUEJydigEx)
 
+---
 ### **Sezon 3**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1sZXx9kMf5sS5hXySkftgzHjyG6OVK9tE)
 Nr | Tytuł | Link
@@ -45,6 +48,7 @@ Nr | Tytuł | Link
 4 | Bardzo zniuansowana postać. | [Link](https://drive.google.com/uc?export=download&id=16V2TPRE-PX-bxRyH8uZTYKcmNsvocN0K)
 5 | P. L. P. | [Link](https://drive.google.com/uc?export=download&id=1eUilfjK-xx5HOE3WXchWISUOJ29r9af1)
 
+---
 ### **Sezon 4**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1hdHrwhvV-h6YCLKezygG1ih8vbJURGf5)
 Nr | Tytuł | Link
@@ -58,6 +62,7 @@ Nr | Tytuł | Link
 7 | Niegrzeczni chłopcy nie dostają gwiazdek. | [Link](https://drive.google.com/uc?export=download&id=1PoeevsdamfElhbpvnCVc-pnGNYt82KTx)
 8 | Tony Trzy Placki. | [Link](https://drive.google.com/uc?export=download&id=1O2u2xtjZFd97t8iApaqhIc3Ghk4qIb52)
 
+---
 ### **Sezon 5**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1iho1QcIK5Rnt7gUoS9Ra4ODC2guYaZIe)
 Nr | Tytuł | Link
@@ -71,6 +76,7 @@ Nr | Tytuł | Link
 7 | Boing boing. | [Link](https://drive.google.com/file/d/1fjIUqAHUsGyM3ZuSQSfQNNEtLszSiWHu/view?usp=sharing)
 8 | Ich woda jest przepyszna. | [Link](https://drive.google.com/uc?export=download&id=1stRV1VqBT4eReXmuZ23uW81yV6NR00iB)
 
+---
 ### **Champion of Champions 1**
 
 Nr | Tytuł | Link
@@ -78,6 +84,7 @@ Nr | Tytuł | Link
 1|Przebiegły dmuchacz żyraf.| [Link](https://drive.google.com/uc?export=download&id=1bpuL4L9irJ5Ta1w6uLrPF5dDuZag_dEE)
 2 |Znowu zgrzeszyłem.|[Link](https://drive.google.com/uc?export=download&id=1ouTXPG5pN8TQqsqabxtpZBKKg6pPLW9z)
 
+---
 ### **Sezon 6**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1rImwnoZh5mvAR45bUTP0Pg2_aTGPf_6g)
 Nr | Tytuł | Link
@@ -93,6 +100,7 @@ Nr | Tytuł | Link
 9|Bańkowi bracia.| [Link](https://drive.google.com/uc?export=download&id=195Oqgk1-PDCT_VcKNbYCHf0XxngYwIi2)
 10|Stał się innym człowiekiem.| [Link](https://drive.google.com/uc?export=download&id=1WB0-ZOFc26j3-nI9ttHKi0eBUg_6Q-hj)
 
+---
 ### **Sezon 7**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1p0PnLTz_aq8_qk0oxl0sOycw72SLZsHG)
 Nr | Tytuł | Link
@@ -108,6 +116,7 @@ Nr | Tytuł | Link
 9|Wahadło przyciąga wzrok.| [Link](https://drive.google.com/uc?export=download&id=14sTlvZjZxNXBPhCrKjTNf4xIKA5F-Nz_)
 10|Słyszę, jak chlupocze.| [Link](https://drive.google.com/uc?export=download&id=1gmQsX1LdZJmmZzXApzDEYp7RBrVazKe6)
 
+---
 ### **Sezon 8** (WIP)
 
 Nr | Tytuł | Link
@@ -116,6 +125,7 @@ Nr | Tytuł | Link
 2 | Powieść o rosyjskich gułagach. |
 3|Utknąłem w rytmie ssaków.
 
+---
 ### **Odcinki specjalne**
 Nr | Tytuł | Link
 --|--|--|
