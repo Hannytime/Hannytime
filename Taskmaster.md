@@ -1,4 +1,4 @@
-Napisy | O projekcie | Linki
+[Napisy](https://github.com/Hannytime/Hannytime/blob/main/TMSub.md) | [O projekcie](https://github.com/Hannytime/Hannytime/blob/main/About.md) | [Linki](https://github.com/Hannytime/Hannytime/blob/main/Links.md)
 
 ![line](line.png)
 
@@ -11,6 +11,8 @@ Napisy | O projekcie | Linki
 Każdy uczestnik wykonuje zadania sam, jedynie w towarzystwie asystenta Taskmastera, **małego Aleksa Horne'a**. Później, cała piątka spotyka się w studiu i porównuje, jak każde z nich wykonało to samo zadanie. W każdym sezonie występują także zadania zespołowe, a w każdym odcinku - zadanie na żywo.
 
 Każdy odcinek trwa ok. **44 minut**. Obecnie, każdy sezon programu składa się z 10 odcinków. W jednym sezonie cały czas występuje ta sama grupa komików, a na koniec uczestnik, który zdobył najwięcej punktów za zadania, otrzymuje tytuł zwycięzcy i złotą głowę Grega Daviesa.
+
+---
 
 Format programu jest tak zabawny i popularny, że Taskmaster doczekał się swoich własnych wersji w **innych krajach**. Te kraje to:
 * **Szwecja** *(Bäst i Test)*

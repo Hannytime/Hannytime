@@ -2,7 +2,7 @@
 
 ![line](line.png)
 
-O projekcie | Taskmaster | Linki
+[O projekcie](https://github.com/Hannytime/Hannytime/blob/main/About.md) | [Taskmaster](https://github.com/Hannytime/Hannytime/blob/main/Taskmaster.md) | [Linki](https://github.com/Hannytime/Hannytime/blob/main/Links.md)
 
 ### **Polskie napisy do programu tv Taskmaster UK**
 Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stworzone przez fankę w ramach projektu Taskmaster Worldwide Inc.
