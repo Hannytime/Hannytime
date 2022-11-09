@@ -1,4 +1,4 @@
-[Napisy](https://github.com/Hannytime/Hannytime/blob/main/TMSub.md) | [O projekcie](https://github.com/Hannytime/Hannytime/blob/main/About.md) | [Linki](https://github.com/Hannytime/Hannytime/blob/main/Links.md)
+[Napisy](https://github.com/Hannytime/Hannytime/blob/main/index.md) | [O projekcie](https://github.com/Hannytime/Hannytime/blob/main/About.md) | [Linki](https://github.com/Hannytime/Hannytime/blob/main/Links.md)
 
 ![line](line.png)
 
