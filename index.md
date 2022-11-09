@@ -29,6 +29,7 @@ Nr | Tytuł | Link
 
 ### **Sezon 2**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/file/d/1qP6zyYNpDZVMU9NhwnuM6X-B6dDljpiO/view?usp=sharing)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Strach przed niepowodzeniem. | [Link](https://drive.google.com/uc?export=download&id=1oe_5f2Kj8u4kJThHBVODVN9wK6iC-fPO)
@@ -40,6 +41,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 3**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1sZXx9kMf5sS5hXySkftgzHjyG6OVK9tE)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Groszek w stogu siana. | [Link](https://drive.google.com/uc?export=download&id=12814H1UUHnilu2fkgYI5symEPtbgGjS-)
@@ -51,6 +53,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 4**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1hdHrwhvV-h6YCLKezygG1ih8vbJURGf5)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Gruby, łysy, biały gość. | [Link](https://drive.google.com/uc?export=download&id=1iOoL8K2GUIkSsJSvOrd-_OwZMgbVCsvH)
@@ -65,6 +68,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 5**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1iho1QcIK5Rnt7gUoS9Ra4ODC2guYaZIe)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Godność zachowana. | [Link](https://drive.google.com/uc?export=download&id=17n4htaD3cGJb5E2WUKff6-Be6Y1zhdEZ)
@@ -87,6 +91,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 6**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1rImwnoZh5mvAR45bUTP0Pg2_aTGPf_6g)
+
 Nr | Tytuł | Link
 --|--|--|
 1|Miękka, zakrzywiona kłódka.| [Link](https://drive.google.com/uc?export=download&id=1rogOUyXlLkv4zbP7U_lMNCImxsyhF75J)
@@ -103,6 +108,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 7**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1p0PnLTz_aq8_qk0oxl0sOycw72SLZsHG)
+
 Nr | Tytuł | Link
 --|--|--|
 1|Średnia fasolka.| [Link](https://drive.google.com/uc?export=download&id=1CRU9SA0tPXlh2v3LeWVZPVsmZs6BK2of)
