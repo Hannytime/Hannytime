@@ -9,7 +9,7 @@ Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stwor
 
 ![line](line.png)
 
-[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | Sezon 8 (WIP) | [Odcinki specjalne](#odcinki-specjalne)
+[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8 (WIP)](#sezon-8-wip) | [Odcinki specjalne](#odcinki-specjalne)
 
 ![line](line.png)
 
@@ -29,6 +29,7 @@ Nr | Tytuł | Link
 
 ### **Sezon 2**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/file/d/1qP6zyYNpDZVMU9NhwnuM6X-B6dDljpiO/view?usp=sharing)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Strach przed niepowodzeniem. | [Link](https://drive.google.com/uc?export=download&id=1oe_5f2Kj8u4kJThHBVODVN9wK6iC-fPO)
@@ -40,6 +41,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 3**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1sZXx9kMf5sS5hXySkftgzHjyG6OVK9tE)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Groszek w stogu siana. | [Link](https://drive.google.com/uc?export=download&id=12814H1UUHnilu2fkgYI5symEPtbgGjS-)
@@ -51,6 +53,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 4**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1hdHrwhvV-h6YCLKezygG1ih8vbJURGf5)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Gruby, łysy, biały gość. | [Link](https://drive.google.com/uc?export=download&id=1iOoL8K2GUIkSsJSvOrd-_OwZMgbVCsvH)
@@ -65,6 +68,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 5**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1iho1QcIK5Rnt7gUoS9Ra4ODC2guYaZIe)
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Godność zachowana. | [Link](https://drive.google.com/uc?export=download&id=17n4htaD3cGJb5E2WUKff6-Be6Y1zhdEZ)
@@ -87,6 +91,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 6**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1rImwnoZh5mvAR45bUTP0Pg2_aTGPf_6g)
+
 Nr | Tytuł | Link
 --|--|--|
 1|Miękka, zakrzywiona kłódka.| [Link](https://drive.google.com/uc?export=download&id=1rogOUyXlLkv4zbP7U_lMNCImxsyhF75J)
@@ -103,6 +108,7 @@ Nr | Tytuł | Link
 ---
 ### **Sezon 7**
 *Wszystkie napisy w jednym pliku:* [Link](https://drive.google.com/uc?export=download&id=1p0PnLTz_aq8_qk0oxl0sOycw72SLZsHG)
+
 Nr | Tytuł | Link
 --|--|--|
 1|Średnia fasolka.| [Link](https://drive.google.com/uc?export=download&id=1CRU9SA0tPXlh2v3LeWVZPVsmZs6BK2of)
@@ -121,12 +127,15 @@ Nr | Tytuł | Link
 
 Nr | Tytuł | Link
 --|--|--|
-1 | Halo.
-2 | Powieść o rosyjskich gułagach. |
-3|Utknąłem w rytmie ssaków.
+1 | Halo. | [Link](https://drive.google.com/uc?export=download&id=1G6o7ToO-43rdH106Q3zgDWQom1WO4arB)
+2 | Powieść o rosyjskich gułagach. | [Link](https://drive.google.com/uc?export=download&id=1HLVUfP7QUsnErHVWcFWa_wc2DgDDGKM0)
+3|Utknąłem w rytmie ssaków. | [Link](https://drive.google.com/uc?export=download&id=1HTMJm3Lwy1Lpat9XYLrqO41hDnbu3ImM)
+4 | Tato zza beczki.
+5 | Bycie pokornym.
 
 ---
 ### **Odcinki specjalne**
+
 Nr | Tytuł | Link
 --|--|--|
 1 | Noworoczny odcinek 2021 | [Link](https://drive.google.com/uc?export=download&id=1OwF_r09WxzYLuGkmRd6w9FtXRVUtzbW_)

@@ -26,4 +26,5 @@ Format programu jest tak zabawny i popularny, że Taskmaster doczekał się swoi
 * **Portugalia** *(Taskmaster)*
 * **Chorwacja** *(Direktor svemira)*
 * **Kanada** *(Le maître du jeu)*
+* **Australia** *(Taskmaster)*
 
