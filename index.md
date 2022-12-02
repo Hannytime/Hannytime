@@ -132,6 +132,7 @@ Nr | Tytuł | Link
 3|Utknąłem w rytmie ssaków. | [Link](https://drive.google.com/uc?export=download&id=1HTMJm3Lwy1Lpat9XYLrqO41hDnbu3ImM)
 4 | Tato zza beczki.
 5 | Bycie pokornym.
+6 | Rockandrollowy umlaut.
 
 ---
 ### **Odcinki specjalne**
