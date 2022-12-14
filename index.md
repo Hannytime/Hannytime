@@ -131,8 +131,9 @@ Nr | Tytuł | Link
 2 | Powieść o rosyjskich gułagach. | [Link](https://drive.google.com/uc?export=download&id=1HLVUfP7QUsnErHVWcFWa_wc2DgDDGKM0)
 3|Utknąłem w rytmie ssaków. | [Link](https://drive.google.com/uc?export=download&id=1HTMJm3Lwy1Lpat9XYLrqO41hDnbu3ImM)
 4 | Tato zza beczki.
-5 | Bycie pokornym.
+5 | Trochę pokory.
 6 | Rockandrollowy umlaut.
+7 | Oto Trevor.
 
 ---
 ### **Odcinki specjalne**
