@@ -130,8 +130,8 @@ Nr | Tytuł | Link
 1 | Halo. | [Link](https://drive.google.com/uc?export=download&id=1G6o7ToO-43rdH106Q3zgDWQom1WO4arB)
 2 | Powieść o rosyjskich gułagach. | [Link](https://drive.google.com/uc?export=download&id=1HLVUfP7QUsnErHVWcFWa_wc2DgDDGKM0)
 3|Utknąłem w rytmie ssaków. | [Link](https://drive.google.com/uc?export=download&id=1HTMJm3Lwy1Lpat9XYLrqO41hDnbu3ImM)
-4 | Tato zza beczki.
-5 | Trochę pokory.
+4 | Tato zza beczki. | [Link](https://drive.google.com/uc?export=download&id=1ixcFLmPSC-27l7ray_RrM6lPDdb11C99)
+5 | Trochę pokory. | [Link](https://drive.google.com/uc?export=download&id=1NeqOZ4q41hmF5gngPqmGcXua3DyvNHcr)
 6 | Rockandrollowy umlaut.
 7 | Oto Trevor.
 
