@@ -1,7 +1,5 @@
-﻿## TASKMASTER UK POLSKIE NAPISY
-
-![line](line.png)
-
+﻿
+![banner](banner.png)
 [O projekcie](https://github.com/Hannytime/Hannytime/blob/main/About.md) | [Taskmaster](https://github.com/Hannytime/Hannytime/blob/main/Taskmaster.md) | [Linki](https://github.com/Hannytime/Hannytime/blob/main/Links.md)
 
 ### **Polskie napisy do programu tv Taskmaster UK**
@@ -134,6 +132,7 @@ Nr | Tytuł | Link
 5 | Trochę pokory. | [Link](https://drive.google.com/uc?export=download&id=1NeqOZ4q41hmF5gngPqmGcXua3DyvNHcr)
 6 | Rockandrollowy umlaut.
 7 | Oto Trevor.
+8 | Wodna maszyna do szycia.
 
 ---
 ### **Odcinki specjalne**
