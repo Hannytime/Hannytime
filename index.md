@@ -133,6 +133,7 @@ Nr | Tytuł | Link
 6 | Rockandrollowy umlaut.
 7 | Oto Trevor.
 8 | Wodna maszyna do szycia.
+9 | Byłem trochę chory.
 
 ---
 ### **Odcinki specjalne**
