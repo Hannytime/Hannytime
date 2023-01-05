@@ -16,7 +16,7 @@
 [Instagram](https://www.instagram.com/taskmaster/)
 
 
-### **Taskmaster International Inc.**
+### **Taskmaster Worldwide Inc.**
 
 [Twitter](https://twitter.com/tmworldwideinc)
 

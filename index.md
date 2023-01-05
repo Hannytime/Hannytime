@@ -130,10 +130,10 @@ Nr | Tytuł | Link
 3|Utknąłem w rytmie ssaków. | [Link](https://drive.google.com/uc?export=download&id=1HTMJm3Lwy1Lpat9XYLrqO41hDnbu3ImM)
 4 | Tato zza beczki. | [Link](https://drive.google.com/uc?export=download&id=1ixcFLmPSC-27l7ray_RrM6lPDdb11C99)
 5 | Trochę pokory. | [Link](https://drive.google.com/uc?export=download&id=1NeqOZ4q41hmF5gngPqmGcXua3DyvNHcr)
-6 | Rockandrollowy umlaut.
-7 | Oto Trevor.
-8 | Wodna maszyna do szycia.
-9 | Byłem trochę chory.
+6 | Rockandrollowy umlaut. | [Link](https://drive.google.com/uc?export=download&id=13KqgjXLz0pDjl8jE1mK4lW4_KI_0qKDe)
+7 | Oto Trevor. | [Link](https://drive.google.com/uc?export=download&id=1jkR0liRj7KfWomGRKbH-DmMv8ZrauRwn)
+8 | Wodna maszyna do szycia. | [Link](https://drive.google.com/uc?export=download&id=1lHp4khoyU_0Xxxon0ZaGqsWj_rzUiY1k)
+9 | Byłem ostatnio chory.
 
 ---
 ### **Odcinki specjalne**
