@@ -134,6 +134,7 @@ Nr | Tytuł | Link
 7 | Oto Trevor. | [Link](https://drive.google.com/uc?export=download&id=1jkR0liRj7KfWomGRKbH-DmMv8ZrauRwn)
 8 | Wodna maszyna do szycia. | [Link](https://drive.google.com/uc?export=download&id=1lHp4khoyU_0Xxxon0ZaGqsWj_rzUiY1k)
 9 | Byłem ostatnio chory.
+10 | Toporny, machający, niezręczny koleś.
 
 ---
 ### **Odcinki specjalne**
@@ -142,3 +143,4 @@ Nr | Tytuł | Link
 --|--|--|
 1 | Noworoczny odcinek 2021 | [Link](https://drive.google.com/uc?export=download&id=1OwF_r09WxzYLuGkmRd6w9FtXRVUtzbW_)
 2 | Noworoczny odcinek 2022 | [Link](https://drive.google.com/uc?export=download&id=1zYe3BQN2yG7hjK9p1tkb1ks1iikIBnwl)
+3 | Noworoczny odcinek 2023 | 
