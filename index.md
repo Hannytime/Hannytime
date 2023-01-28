@@ -7,7 +7,7 @@ Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stwor
 
 ![line](line.png)
 
-[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8 (WIP)](#sezon-8-wip) | [Odcinki specjalne](#odcinki-specjalne)
+[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8 (WIP)](#sezon-8) | [Sezon 9 (WIP)](#sezon-9-wip) | [Odcinki specjalne](#odcinki-specjalne)
 
 ![line](line.png)
 
@@ -121,7 +121,7 @@ Nr | Tytuł | Link
 10|Słyszę, jak chlupocze.| [Link](https://drive.google.com/uc?export=download&id=1gmQsX1LdZJmmZzXApzDEYp7RBrVazKe6)
 
 ---
-### **Sezon 8** (WIP)
+### **Sezon 8**
 
 Nr | Tytuł | Link
 --|--|--|
@@ -133,14 +133,21 @@ Nr | Tytuł | Link
 6 | Rockandrollowy umlaut. | [Link](https://drive.google.com/uc?export=download&id=13KqgjXLz0pDjl8jE1mK4lW4_KI_0qKDe)
 7 | Oto Trevor. | [Link](https://drive.google.com/uc?export=download&id=1jkR0liRj7KfWomGRKbH-DmMv8ZrauRwn)
 8 | Wodna maszyna do szycia. | [Link](https://drive.google.com/uc?export=download&id=1lHp4khoyU_0Xxxon0ZaGqsWj_rzUiY1k)
-9 | Byłem ostatnio chory.
-10 | Toporny, machający, niezręczny koleś.
+9 | Byłem ostatnio chory. | [Link](https://drive.google.com/uc?export=download&id=1WSZ6alookoXhqGj3oG9AIQetTFjEllXR)
+10 | Toporny, machający, niezręczny koleś. | [Link](https://drive.google.com/uc?export=download&id=1muPgFGZqHcxm_NHrLeKvBate2cracYJ_)
 
 ---
+### **Sezon 9** (WIP)
+
+Nr | Tytuł | Link
+--|--|--|
+1 | Dołącz do naszej sekty.
+2 | Masło w mikrofalówce.
+
 ### **Odcinki specjalne**
 
 Nr | Tytuł | Link
 --|--|--|
 1 | Noworoczny odcinek 2021 | [Link](https://drive.google.com/uc?export=download&id=1OwF_r09WxzYLuGkmRd6w9FtXRVUtzbW_)
 2 | Noworoczny odcinek 2022 | [Link](https://drive.google.com/uc?export=download&id=1zYe3BQN2yG7hjK9p1tkb1ks1iikIBnwl)
-3 | Noworoczny odcinek 2023 | 
+3 | Noworoczny odcinek 2023 | [Link](https://drive.google.com/uc?export=download&id=1ExGUHk5gClhjrJaZWtLvHmeD5iXEupFN)
