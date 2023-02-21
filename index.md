@@ -141,8 +141,12 @@ Nr | Tytuł | Link
 
 Nr | Tytuł | Link
 --|--|--|
-1 | Dołącz do naszej sekty.
-2 | Masło w mikrofalówce.
+1 | Dołącz do naszej sekty. | [Link](https://drive.google.com/uc?export=download&id=1Av4imwyhRonZ1s1n4Yfp6LfEOCBFDQ3e)
+2 | Masło w mikrofalówce. | [Libk](https://drive.google.com/uc?export=download&id=1zT50Zvvy3wLbI_ub0pOVth0Mc3bnf1sZ)
+3 | Pięć mil na dzień.
+4 | Quipsy.
+5 | Kolejna łyżka.
+6 | Chlebek, chlebek, chlebek.
 
 ### **Odcinki specjalne**
 
