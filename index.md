@@ -143,10 +143,11 @@ Nr | Tytuł | Link
 --|--|--|
 1 | Dołącz do naszej sekty. | [Link](https://drive.google.com/uc?export=download&id=1Av4imwyhRonZ1s1n4Yfp6LfEOCBFDQ3e)
 2 | Masło w mikrofalówce. | [Link](https://drive.google.com/uc?export=download&id=1zT50Zvvy3wLbI_ub0pOVth0Mc3bnf1sZ)
-3 | Pięć mil na dzień.
-4 | Quipsy.
-5 | Kolejna łyżka.
-6 | Chlebek, chlebek, chlebek.
+3 | Pięć mil na dzień. | [Link](https://drive.google.com/uc?export=download&id=1J_t99sJGNZmRA9MhUMi6Cwl0lWA5dpIQ)
+4 | Quipsy. | [Link](https://drive.google.com/uc?export=download&id=1zVPMrs-wDqP0Ck4YGn2Jq-1sUWeCxO-e)
+5 | Kolejna łyżka. | [Link](https://drive.google.com/uc?export=download&id=1OJ4-DWQ3R6zKZGbpPbZZXtSdrT5zSjaa)
+6 | Paluszek, paluszek, paluszek.
+7 | Przytulas.
 
 ### **Odcinki specjalne**
 
