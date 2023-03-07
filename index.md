@@ -148,6 +148,7 @@ Nr | Tytuł | Link
 5 | Kolejna łyżka. | [Link](https://drive.google.com/uc?export=download&id=1OJ4-DWQ3R6zKZGbpPbZZXtSdrT5zSjaa)
 6 | Paluszek, paluszek, paluszek.
 7 | Przytulas.
+8 | Shaqwkapeluszu.
 
 ### **Odcinki specjalne**
 
