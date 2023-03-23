@@ -149,6 +149,8 @@ Nr | Tytuł | Link
 6 | Paluszek, paluszek, paluszek.
 7 | Przytulas.
 8 | Shaqwkapeluszu.
+9 | Nie lubię, jak robią huk.
+10 | Pomyśl o duchu.
 
 ### **Odcinki specjalne**
 
