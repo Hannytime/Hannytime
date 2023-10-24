@@ -11,14 +11,14 @@
 
 [Kanał na YouTube](https://www.youtube.com/taskmaster)
 
-[Twitter](https://twitter.com/taskmaster)
+[X/Twitter](https://twitter.com/taskmaster)
 
 [Instagram](https://www.instagram.com/taskmaster/)
 
 
 ### **Taskmaster Worldwide Inc.**
 
-[Twitter](https://twitter.com/tmworldwideinc)
+[X/Twitter](https://twitter.com/tmworldwideinc)
 
 [Instagram](https://www.instagram.com/tmworldwideinc/)
 
