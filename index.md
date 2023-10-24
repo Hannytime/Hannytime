@@ -7,7 +7,7 @@ Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stwor
 
 ![line](line.png)
 
-[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8 (WIP)](#sezon-8) | [Sezon 9 (WIP)](#sezon-9-wip) | [Odcinki specjalne](#odcinki-specjalne)
+[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Odcinki specjalne](#odcinki-specjalne)
 
 ![line](line.png)
 
@@ -137,16 +137,20 @@ Nr | Tytuł | Link
 10 | Toporny, machający, niezręczny koleś. | [Link](https://drive.google.com/uc?export=download&id=1muPgFGZqHcxm_NHrLeKvBate2cracYJ_)
 
 ---
-### **Sezon 9** (WIP)
+### **Sezon 9**
 
 Nr | Tytuł | Link
 --|--|--|
 1 | Dołącz do naszej sekty. | [Link](https://drive.google.com/uc?export=download&id=1Av4imwyhRonZ1s1n4Yfp6LfEOCBFDQ3e)
-2 | Masło w mikrofalówce. | [Libk](https://drive.google.com/uc?export=download&id=1zT50Zvvy3wLbI_ub0pOVth0Mc3bnf1sZ)
-3 | Pięć mil na dzień.
-4 | Quipsy.
-5 | Kolejna łyżka.
-6 | Chlebek, chlebek, chlebek.
+2 | Masło w mikrofalówce. | [Link](https://drive.google.com/uc?export=download&id=1zT50Zvvy3wLbI_ub0pOVth0Mc3bnf1sZ)
+3 | Pięć mil na dzień. | [Link](https://drive.google.com/uc?export=download&id=1J_t99sJGNZmRA9MhUMi6Cwl0lWA5dpIQ)
+4 | Quipsy. | [Link](https://drive.google.com/uc?export=download&id=1zVPMrs-wDqP0Ck4YGn2Jq-1sUWeCxO-e)
+5 | Kolejna łyżka. | [Link](https://drive.google.com/uc?export=download&id=1OJ4-DWQ3R6zKZGbpPbZZXtSdrT5zSjaa)
+6 | Chlebek, chlebek, chlebek. | [Link](https://drive.google.com/uc?export=download&id=1s7YAY0YKmWBeaAsCKjjynsZfwrLWek-y)
+7 | Przytulas. | [Link](https://drive.google.com/uc?export=download&id=1MHEowuJGNEPLl22W_sph4eCsUZwjDvg1)
+8 | Shaqwkapeluszu. | [Link](https://drive.google.com/uc?export=download&id=104_Y2YaaUzZs9W3HO2u8JEI1Q3-DJirj)
+9 | Nie lubię, jak robią huk. | [Link](https://drive.google.com/uc?export=download&id=1Wru9X-tDEKox5vhoxkQtsUNuHGf1mtVV)
+10 | Pomyśl o duchu. | [Link](https://drive.google.com/uc?export=download&id=1JGuNHKzg-sASX9RSgZGzPYQmg3aJ7NUy)
 
 ### **Odcinki specjalne**
 
