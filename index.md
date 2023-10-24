@@ -152,12 +152,6 @@ Nr | Tytuł | Link
 9 | Nie lubię, jak robią huk. | [Link](https://drive.google.com/uc?export=download&id=1Wru9X-tDEKox5vhoxkQtsUNuHGf1mtVV)
 10 | Pomyśl o duchu. | [Link](https://drive.google.com/uc?export=download&id=1JGuNHKzg-sASX9RSgZGzPYQmg3aJ7NUy)
 
-6 | Paluszek, paluszek, paluszek.
-7 | Przytulas.
-8 | Shaqwkapeluszu.
-9 | Nie lubię, jak robią huk.
-10 | Pomyśl o duchu.
-
 ### **Odcinki specjalne**
 
 Nr | Tytuł | Link
