@@ -7,7 +7,7 @@ Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stwor
 
 ![line](line.png)
 
-[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Odcinki specjalne](#odcinki-specjalne)
+[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Sezon 10](#sezon-10) | [Odcinki specjalne](#odcinki-specjalne)
 
 ![line](line.png)
 
@@ -151,6 +151,18 @@ Nr | Tytuł | Link
 8 | Shaqwkapeluszu. | [Link](https://drive.google.com/uc?export=download&id=104_Y2YaaUzZs9W3HO2u8JEI1Q3-DJirj)
 9 | Nie lubię, jak robią huk. | [Link](https://drive.google.com/uc?export=download&id=1Wru9X-tDEKox5vhoxkQtsUNuHGf1mtVV)
 10 | Pomyśl o duchu. | [Link](https://drive.google.com/uc?export=download&id=1JGuNHKzg-sASX9RSgZGzPYQmg3aJ7NUy)
+
+### **Sezon 10**
+
+Nr | Tytuł | Link
+--|--|--|
+1 | Hemeroid Boga. | [Link](https://drive.google.com/uc?export=download&id=16RhCIZ9VT34-BH8tytONQU-7p9xrrjtL)
+2 | Dokument o tyranie. | [Link](https://drive.google.com/uc?export=download&id=1GTSii3CV051Hqpo5Grb9x2-5AR9AKlHA)
+3 | Punkt obrotu. | [Link](https://drive.google.com/uc?export=download&id=179afntWvak7zTHlC3pd1IfyW527s6Hab)
+4 | Dyrdymały. | [Link](https://drive.google.com/uc?export=download&id=1Wj7QNZ6Brs61qhB2Byc9xKLYskhvK_U_)
+5 | Masz brzydkie buty. | [Link](https://drive.google.com/uc?export=download&id=17utH-IV5rKGFgEWN0I446jgKw7LbxoEX)
+6 | Hipopotam. | [Link](https://drive.google.com/uc?export=download&id=1oxjFNdTOhyNRZ1NQvGPtI9Kk72e-bxyr)
+
 
 ### **Odcinki specjalne**
 

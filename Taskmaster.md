@@ -10,9 +10,9 @@
 
 Każdy uczestnik wykonuje zadania sam, w tym samym domu, w towarzystwie asystenta Taskmastera, **małego Aleksa Horne'a**. Później, cała piątka uczestników wraz z Taskmasterem i asystentem spotyka się w studiu i porównuje, jak każde z nich wykonało to samo zadanie. W każdym sezonie występują także zadania zespołowe, a w każdym odcinku - zadanie na żywo.
 
-Każdy odcinek trwa ok. **44 minut**. Obecnie, każdy sezon programu składa się z 10 odcinków. W jednym sezonie cały czas występuje ta sama grupa komików, a na koniec uczestnik, który zdobył najwięcej punktów we wszystkich odcinkach, otrzymuje tytuł zwycięzcy i złotą głowę Grega Daviesa.
+Każdy odcinek trwa ok. **44-47 minut**. Obecnie, każdy sezon programu składa się z 10 odcinków. W jednym sezonie cały czas występuje ta sama grupa komików, a na koniec uczestnik, który zdobył najwięcej punktów we wszystkich odcinkach, otrzymuje tytuł zwycięzcy i złotą głowę Grega Daviesa.
 
-Program jest emitowany dwa razy w roku, na brytyjskim kanale Channel 4.
+Program jest emitowany dwa razy w roku, na brytyjskim kanale Channel 4. Co pięć sezonów, piątka zwycięzców spotyka się ponownie w specjalnej edycji programu, **Zwycięzcy zwycięzców**. Pod koniec roku emitowany jest także odcinek noworoczny z zupełnie innymi uczestnikami, często osobami niezwiązanymi ze światem komedii.
 
 ---
 

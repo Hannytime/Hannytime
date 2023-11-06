@@ -8,7 +8,7 @@
 
 [Taskmaster Worldwide Inc.](https://mobile.twitter.com/tmworldwideinc) to projekt, który powstał z inicjatywy kilku zagranicznych fanów programu Taskmaster w celu przetłumaczenia napisów na inne języki.
 
-Obecnie, napisy są tłumaczone na język portugalski, niemiecki, hiszpański, holenderski i, oczywiście, polski.
+Obecnie, napisy są tłumaczone na język portugalski, niemiecki, hiszpański, holenderski i, oczywiście, polski. Są także zespoły, które tłumaczą zagraniczne wersje programu na język angielski (m.in. norweskie Kongen Befaler i portugalskiego Taskmastera).
 
 Każdy język ma swój osobny zespół tłumaczy.
 Polski zespół obecnie składa się tylko z jednej osoby - mnie - a pomimo tego, polskich napisów zostało do tej pory stworzonych najwięcej. 😊
