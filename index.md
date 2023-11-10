@@ -162,6 +162,10 @@ Nr | Tytuł | Link
 4 | Dyrdymały. | [Link](https://drive.google.com/uc?export=download&id=1Wj7QNZ6Brs61qhB2Byc9xKLYskhvK_U_)
 5 | Masz brzydkie buty. | [Link](https://drive.google.com/uc?export=download&id=17utH-IV5rKGFgEWN0I446jgKw7LbxoEX)
 6 | Hipopotam. | [Link](https://drive.google.com/uc?export=download&id=1oxjFNdTOhyNRZ1NQvGPtI9Kk72e-bxyr)
+7 | Legitne szkło. | [Link](https://drive.google.com/uc?export=download&id=19PizQiyxCfg3GH3sZoBYUQI8NAw9eeZn)
+8 | Minuty ciszy. | [Link](https://drive.google.com/uc?export=download&id=1I5XVhAcWSfezRlVYShAKUTzHV2sd73u-)
+9 | Air Horn Andy. | [Link](https://drive.google.com/uc?export=download&id=1fYTkB37U-tz5q-1OhhqtmVKXeqfi-f8m)
+10 | Deser z mięsa dla psa. | [Link](https://drive.google.com/uc?export=download&id=1NyHKTyPfYWTU48ABQBXxZZGfnymoIZw7)
 
 
 ### **Odcinki specjalne**
