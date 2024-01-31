@@ -156,7 +156,7 @@ Nr | Tytuł | Link
 
 Nr | Tytuł | Link
 --|--|--|
-1 | Hemeroid Boga. | [Link](https://drive.google.com/uc?export=download&id=16RhCIZ9VT34-BH8tytONQU-7p9xrrjtL)
+1 | Hemoroid Boga. | [Link](https://drive.google.com/uc?export=download&id=16RhCIZ9VT34-BH8tytONQU-7p9xrrjtL)
 2 | Dokument o tyranie. | [Link](https://drive.google.com/uc?export=download&id=1GTSii3CV051Hqpo5Grb9x2-5AR9AKlHA)
 3 | Punkt obrotu. | [Link](https://drive.google.com/uc?export=download&id=179afntWvak7zTHlC3pd1IfyW527s6Hab)
 4 | Dyrdymały. | [Link](https://drive.google.com/uc?export=download&id=1Wj7QNZ6Brs61qhB2Byc9xKLYskhvK_U_)
@@ -167,6 +167,20 @@ Nr | Tytuł | Link
 9 | Air Horn Andy. | [Link](https://drive.google.com/uc?export=download&id=1fYTkB37U-tz5q-1OhhqtmVKXeqfi-f8m)
 10 | Deser z mięsa dla psa. | [Link](https://drive.google.com/uc?export=download&id=1NyHKTyPfYWTU48ABQBXxZZGfnymoIZw7)
 
+### **Sezon 11**
+
+Nr | Tytuł | Link
+--|--|--|
+1 | To nie twoja wina. | [Link](https://drive.google.com/uc?export=download&id=17lVwzKki-9-YxyQPYO_-wSSc2834Ysv6)
+2 | Pokusa melasowych szczeniaków. | [Link](https://drive.google.com/uc?export=download&id=1xvbMJ_kFmPBcO_5ZyeJcKt7Cque9DPvr)
+3 | Podbiec na drzewie do księżyca. | [Link](https://drive.google.com/uc?export=download&id=1JdZaL9hrSj2rCXaIBzZeRjxEl2GmkykU)
+4 | Przedwczesny kasztan. | [Link](https://drive.google.com/uc?export=download&id=15fzF3uDjctFh8AMVhBVfnmdssRAF5sUQ)
+5 | Klaps i szczypce. | [Link](https://drive.google.com/uc?export=download&id=1QEgpv3SZx4etuJozBJWwuocjMEuvske3)
+6 | Absolutna zapiekanka. | [Link](https://drive.google.com/uc?export=download&id=106s9y87bZRuwyskcTnubwaU5Rzbn86q2)
+7 | Nie masz za grosz chucpy. | [Link](https://drive.google.com/uc?export=download&id=1JFIGIfF81Cgg5fK3FrusdybipE0xro4s)
+8 | Porządnicki gatunek. | [Link](https://drive.google.com/file/d/1_sSzMrZedv2R7bAoAtosK_-ReVwnK88Q/view?usp=drive_link)
+9 | Pan Ośmiernica i Donicoręki.
+10 | Aktywacja Jamaliego.
 
 ### **Odcinki specjalne**
 
