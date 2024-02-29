@@ -7,7 +7,7 @@ Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stwor
 
 ![line](line.png)
 
-[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#champion-of-champions-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Sezon 10](#sezon-10) | [Odcinki specjalne](#odcinki-specjalne)
+[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#zwycięzca-zwycięzców-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Sezon 10](#sezon-10) | [Odcinki specjalne](#odcinki-specjalne)
 
 ![line](line.png)
 
@@ -79,11 +79,11 @@ Nr | Tytuł | Link
 8 | Ich woda jest przepyszna. | [Link](https://drive.google.com/uc?export=download&id=1stRV1VqBT4eReXmuZ23uW81yV6NR00iB)
 
 ---
-### **Champion of Champions 1**
+### **Zwycięzca-zwycięzców-1**
 
 Nr | Tytuł | Link
 --|--|--|
-1|Przebiegły dmuchacz żyraf.| [Link](https://drive.google.com/uc?export=download&id=1bpuL4L9irJ5Ta1w6uLrPF5dDuZag_dEE)
+1 |Przebiegły dmuchacz żyraf.| [Link](https://drive.google.com/uc?export=download&id=1bpuL4L9irJ5Ta1w6uLrPF5dDuZag_dEE)
 2 |Znowu zgrzeszyłem.|[Link](https://drive.google.com/uc?export=download&id=1ouTXPG5pN8TQqsqabxtpZBKKg6pPLW9z)
 
 ---
