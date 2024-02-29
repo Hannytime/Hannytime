@@ -14,6 +14,8 @@ Każdy odcinek trwa ok. **44-47 minut**. Obecnie, każdy sezon programu składa 
 
 Program jest emitowany dwa razy w roku, na brytyjskim kanale Channel 4. Co pięć sezonów, piątka zwycięzców spotyka się ponownie w specjalnej edycji programu, **Zwycięzcy zwycięzców**. Pod koniec roku emitowany jest także odcinek noworoczny z zupełnie innymi uczestnikami, często osobami niezwiązanymi ze światem komedii.
 
+Swoją emisję w roku 2024 będzie miał też **Taskmaster Junior**, gdzie wystąpią dzieci w wieku 9-11 lat. W tej wersji Taskmasterem będzie znana z sezonu 9 Rose Matafeo, a jej asystentem będzie Mike Wozniak z sezonu 11. Co ciekawe, uczestnikami będą zwykłe dzieci, nieznane szerszej publiczności.
+
 ---
 
 Format programu jest tak zabawny i popularny, że Taskmaster doczekał się swoich własnych wersji w **innych krajach**. Te kraje to:
