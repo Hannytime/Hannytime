@@ -179,8 +179,8 @@ Nr | Tytuł | Link
 6 | Absolutna zapiekanka. | [Link](https://drive.google.com/uc?export=download&id=106s9y87bZRuwyskcTnubwaU5Rzbn86q2)
 7 | Nie masz za grosz chucpy. | [Link](https://drive.google.com/uc?export=download&id=1JFIGIfF81Cgg5fK3FrusdybipE0xro4s)
 8 | Porządnicki gatunek. | [Link](https://drive.google.com/file/d/1_sSzMrZedv2R7bAoAtosK_-ReVwnK88Q/view?usp=drive_link)
-9 | Pan Ośmiernica i Donicoręki.
-10 | Aktywacja Jamaliego.
+9 | Pan Ośmiornica i Donicoręki.
+10 | Aktywować Jamaliego.
 
 ### **Odcinki specjalne**
 
@@ -189,3 +189,4 @@ Nr | Tytuł | Link
 1 | Noworoczny odcinek 2021 | [Link](https://drive.google.com/uc?export=download&id=1OwF_r09WxzYLuGkmRd6w9FtXRVUtzbW_)
 2 | Noworoczny odcinek 2022 | [Link](https://drive.google.com/uc?export=download&id=1zYe3BQN2yG7hjK9p1tkb1ks1iikIBnwl)
 3 | Noworoczny odcinek 2023 | [Link](https://drive.google.com/uc?export=download&id=1ExGUHk5gClhjrJaZWtLvHmeD5iXEupFN)
+4 | Noworoczny odcinek 2024
