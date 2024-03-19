@@ -179,8 +179,8 @@ Nr | Tytuł | Link
 6 | Absolutna zapiekanka. | [Link](https://drive.google.com/uc?export=download&id=106s9y87bZRuwyskcTnubwaU5Rzbn86q2)
 7 | Nie masz za grosz chucpy. | [Link](https://drive.google.com/uc?export=download&id=1JFIGIfF81Cgg5fK3FrusdybipE0xro4s)
 8 | Porządnicki gatunek. | [Link](https://drive.google.com/file/d/1_sSzMrZedv2R7bAoAtosK_-ReVwnK88Q/view?usp=drive_link)
-9 | Pan Ośmiornica i Donicoręki.
-10 | Aktywować Jamaliego.
+9 | Pan Ośmiornica i Donicoręki. | [Link](https://drive.google.com/uc?export=download&id=1Fb2tE2-4vw2VZmYJWLVfIapKN1DVcWrB)
+10 | Aktywować Jamaliego. | [Link](https://drive.google.com/uc?export=download&id=15FrBeNsSevfzThOFxCc7vxkGcuJV73ka)
 
 ### **Odcinki specjalne**
 
