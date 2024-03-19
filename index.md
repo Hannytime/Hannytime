@@ -7,7 +7,7 @@ Tutaj znajdziesz polskie napisy do brytyjskiej wersji programu Taskmaster, stwor
 
 ![line](line.png)
 
-[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#zwycięzca-zwycięzców-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Sezon 10](#sezon-10) | [Odcinki specjalne](#odcinki-specjalne)
+[Sezon 1](#sezon-1) | [Sezon 2](#sezon-2) | [Sezon 3](#sezon-3) | [Sezon 4](#sezon-4) | [Sezon 5](#sezon-5) | [CoC 1](#zwycięzca-zwycięzców-1) | [Sezon 6](#sezon-6) | [Sezon 7](#sezon-7) | [Sezon 8](#sezon-8) | [Sezon 9](#sezon-9) | [Sezon 10](#sezon-10) | [Sezon 11](#sezon-11) [Odcinki specjalne](#odcinki-specjalne)
 
 ![line](line.png)
 
